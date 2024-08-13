@@ -437,24 +437,24 @@ button {
 }
 
 #banner_slider a.carousel-control-prev {
-    left: -120px;
-    top: 455px;
+    left: -90px;
+    top: 447px;
 }
 
 #banner_slider a.carousel-control-next {
     right: 0px;
-    top: 400px;
-    left: -120px;
+    top: 402px;
+    left: -90px;
     color: #fefefd;
     background-color: #4a4949;
 }
 
 #banner_slider .carousel-control-next,
 #banner_slider .carousel-control-prev {
-    width: 55px;
-    height: 55px;
+    width: 45px;
+    height: 45px;
     opacity: 1;
-    font-size: 16px;
+    font-size: 10px;
     color: #4a4949;
     background-color: #efefef;
 }
